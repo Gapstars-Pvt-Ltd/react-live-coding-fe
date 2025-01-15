@@ -1,4 +1,4 @@
-# Fronend React Assessment
+# Frontend React Assessment
 
 Welcome to the technical test for the Fullstack Engineer position. This assignment is designed to assess your skills in frontend development.
 
