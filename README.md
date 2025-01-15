@@ -26,23 +26,31 @@ We will evaluate your submission based on the following criteria:
 
   ```json
   [
-    {
-      "id": 1,
-      "name": "Company A",
-      "industry": "Industry X"
+  {
+    "uuid": "811454a4-5640-497a-86da-077b211a7f97",
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-development/e0/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8zMC9iOGY3YjhlZjQ3M2E0NDlhZjI1OTQ0NDc1ZTgxZmE3Mw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-development/23/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8zMC9iOGY3YjhlZjQ3M2E0NDlhZjI1OTQ0NDc1ZTgxZmE3Mw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-development/0b/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA0LzMwL2I4ZjdiOGVmNDczYTQ0OWFmMjU5NDQ0NzVlODFmYTcz.png"
     },
-    {
-      "id": 2,
-      "name": "Company B",
-      "industry": "Industry Y"
-    },
-    {
-      "id": 3,
-      "name": "Company C",
-      "industry": "Industry X"
-    }
+    "income_streams": [
+      {
+        "id": 3,
+        "name": "subscription"
+      }
+    ],
+    "industries": [
+      {
+        "id": 100147,
+        "name": "enterprise software"
+      }
+    ],
+    "name": "OpenAI",
+    "tagline": "An AI research and deployment company working on artificial general intelligence and generative AI",
+    "total_jobs_available": 58
+  },
   ]
-``
+
 
 ### Frontend Implementation
 
