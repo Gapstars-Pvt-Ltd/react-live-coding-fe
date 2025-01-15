@@ -1,6 +1,6 @@
 # Frontend React Assessment
 
-Welcome to the technical test for the Fullstack Engineer position. This assignment is designed to assess your skills in frontend development.
+Welcome to the live coding test for the Frontend React dev position. This assignment is designed to assess your skills in frontend development.
 
 This technical test comprises two sections: a basic [Node.js](https://nodejs.org/) API implementation and a [React.js](https://react.dev/)-based frontend implementation.
 
